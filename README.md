@@ -44,6 +44,8 @@
 3. Проверьте, что все файлы загрузились успешно.
 4. В ответе пришлите файл `maven-metadata.xml` для этого артефекта.
 
+[maven-metadata.xml](https://github.com/MaratAlaev/SonarNexus/blob/main/maven-metadata.xml)
+
 ### Знакомство с Maven
 
 ### Подготовка к выполнению
@@ -60,6 +62,8 @@
 2. Запустите команду `mvn package` в директории с `pom.xml`, ожидайте успешного окончания.
 3. Проверьте директорию `~/.m2/repository/`, найдите ваш артефакт.
 4. В ответе пришлите исправленный файл `pom.xml`.
+
+[pom.xml](https://github.com/MaratAlaev/SonarNexus/blob/main/pom.xml)
 
 ---
 
